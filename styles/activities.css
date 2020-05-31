@@ -1,0 +1,134 @@
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.hidden {
+  position: absolute;
+  left:-100000px;
+}
+#main_section{
+	background-image: url("../images/LightBlue.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:white;
+}	
+#_h1{
+	text-align:center;
+	padding-top:10px;
+	font-size:40px;
+}
+#_h2{
+	font-size:30px;
+	text-align:center;
+	padding-top:20px;
+	
+	margin-bottom:0px;
+}
+#_date,#_time, #location{
+	font-size:15px;
+	padding-bottom:10px;
+}
+.main_div{
+	/*background-color:rgba(230, 230, 255, 0.5);*/
+	background-color:rgba(0,0,0,.2);
+	display:block;
+	margin:2% 20%;
+	padding-bottom:20px;
+}
+#imagge{
+	width:50%;
+	float:left;
+}
+.leftSide {
+  /*margin:20px 40px 10px 40px;*/
+  margin:4em 2em 4em 2em;
+  max-width:100%;
+  height:200px;
+  max-height:100%;
+}
+#info{
+	width:40%;
+	display:inline-block;
+	margin-left:4em;
+}
+.desc{
+	font-size:18px;
+}
+#register{
+	font-size:20px;
+	padding-left:4em;
+}
+
+
+/*  --------------header------------------*/
+header {
+  height:70px;
+}
+#header_nav{
+
+  display: inline-block;
+
+}
+#logo {
+  position: absolute;
+  margin-left:100px;
+  overflow: visible;
+}
+#nav_list {
+  display:inline-block;
+  list-style-type: none;
+  margin:1em;
+  margin-left: 39em;
+  overflow: hidden;
+  vertical-align: top;
+  font-size:17px;
+  color:black;
+}
+.h_home {
+  color:red;
+}
+
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 7px 7px;
+  text-decoration: none;
+}
+/*FOOTER*/
+footer{
+
+    background-color: skyblue;
+    height:90px;
+    max-height: 100%;
+    font-size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#location {
+    position: absolute;
+    margin-top:18px;
+    margin-left:40px;
+    max-width: 10%;
+	font-size:25px;
+}
+.foot {
+  display: inline-block;
+}
+#foot_list {
+  position: absolute;
+  list-style: none;
+  margin:1em;
+  margin-left: 45em;
+  margin-bottom: 50px;
+  font-size: 17px;
+}
+.f_home {
+  color:red;
+}
+.menu-toggle{
+  display:none;
+}

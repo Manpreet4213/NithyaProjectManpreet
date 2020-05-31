@@ -1,0 +1,122 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    font-family: 'Libel Suit', sans-serif;
+}
+.page-wrapper {
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+.hidden {
+    position: absolute;
+    left:-100000px;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*MAIN*/
+#room {
+    height:400px;
+    width: 50%;
+    margin-right:0;
+    padding-right: 0;
+}
+#home {
+    height:400px;
+    max-width: 50%;
+    margin:0;
+    padding: 0;
+}
+.c_img {
+    position: relative;
+    height: 90px;
+    width: 250px;
+    left:40%;
+}
+#quote {
+    position: relative;
+    text-align: center;
+    color:white;
+}
+#pattern{
+    display: inline-block;
+    width:100%;
+}
+.p1 {
+    display: block;
+    position: absolute;
+    top:80%;
+    bottom: 50%;
+    margin-left:30%;
+    color:#fff;
+    font-size: 20px;
+    text-align: center;
+}
+.p2 {
+    display: block;
+    position: absolute;
+    top:85%;
+    bottom: 50%;
+    margin-left:30%;
+    color:#fff;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/* MEDIA QUERIES */
+/* Tablet Styles */
+@media screen and (max-width:768px) {
+    #home {
+        clear:both;
+        width:100%;
+    }
+    #room {
+        clear:both;
+        width:100%;
+    }
+    #quote {
+        width:100%;
+        margin-right:0;
+        font-size:14px;
+
+    }
+}
+/* Mobile styles*/
+@media screen and (max-width:480px) {
+    .menu-toggle {
+        display:block;
+    }
+    @media screen and (max-width:480px) {
+        #home, #room {
+            clear:both;
+            width:100%;
+            margin-left:0;
+            margin-right:0;
+        }
+        #header_nav li {
+            display:block;
+        }
+        #nav_list {
+            position:absolute;
+            background-color:#999;
+            width:100%;
+            padding:0.5em 0 0 0;
+            margin:0;
+            /* hide the menu by default*/
+            left:-10000px;
+        }
+        #nav_list.show-small {
+            left:0;
+        }
+    }
+
+}

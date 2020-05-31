@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    font-family: 'Libel Suit', sans-serif;
+}
+.page-wrapper {
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+/*HEADER*/
+#header {
+    height:70px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+#header_nav{
+
+    display: inline-block;
+
+}
+#logo {
+    /*position: absolute;*/
+    margin-left:100px;
+    overflow: visible;
+}
+#nav_list {
+    display:inline-block;
+    list-style-type: none;
+    margin:1em;
+    /*margin-left: 39em;*/
+    float: right;
+    max-width: 100%;
+    overflow: hidden;
+    vertical-align: top;
+    font-size:17px;
+}
+.h_home {
+    color:red;
+}
+
+.hidden {
+    position: absolute;
+    left:-100000px;
+}
+
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 7px 7px;
+    text-decoration: none;
+}

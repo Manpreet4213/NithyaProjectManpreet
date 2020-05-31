@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dfa258e-2ccf-4057-a925-969c356ba5f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATABASE/Resort_Function.php" beforeDir="false" afterPath="$PROJECT_DIR$/DATABASE/Resort_Function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README .md" beforeDir="false" afterPath="$PROJECT_DIR$/README .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/blogsAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admins/blogsAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/feedbackAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admins/feedbackAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/footerAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admins/footerAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/headerAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admins/headerAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/updateFeedback.php" beforeDir="false" afterPath="$PROJECT_DIR$/admins/updateFeedback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/activities.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/activities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/blogPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/blogPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/blogs.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/blogs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/feedback.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/feedback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/activities.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/activities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/blogs.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/blogs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/feedback.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/feedback.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aJH2cRqbaHOaZoeKxpyVXIU9zd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dfa258e-2ccf-4057-a925-969c356ba5f1" name="Default Changelist" comment="" />
+      <created>1586446571193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586446571193</updated>
+      <workItem from="1586446573505" duration="2600000" />
+      <workItem from="1586723371894" duration="12000" />
+<<<<<<< HEAD
+      <workItem from="1586723457402" duration="692000" />
+=======
+      <workItem from="1586793517962" duration="15000" />
+      <workItem from="1586800744105" duration="9000" />
+>>>>>>> 1a9fe786ffd71d7df72e685a9806de864c9f867d
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="152" y="31" key="SettingsEditor" timestamp="1586447044247">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="152" y="31" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1586447044247" />
+    <state x="375" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1586800744341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="351" y="214" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1586446577676" />
+    <state x="375" y="202" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586800744341" />
+  </component>
+</project>

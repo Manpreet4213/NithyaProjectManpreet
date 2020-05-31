@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22aae001-7c11-4fcd-986b-54fd0b9ddf69" name="local Team php Resort" url="http://localhost/humber_php/TeamProj/project-repo-phpteam">
+        <fileTransfer port="0" mountedRoot="" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
